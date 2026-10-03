@@ -4,7 +4,7 @@
  * Plugin Name: BuddyForms MailPoet
  * Plugin URI: https://themekraft.com/products/buddyforms-mailpoet/
  * Description: Let your users subscribe to MailPoet lists from BuddForms
- * Version: 1.0.1
+ * Version: 1.0.2-beta.1
  * Author: ThemeKraft
  * Author URI: https://themekraft.com/
  * License: GPLv2 or later
@@ -38,7 +38,7 @@ class BuddyFormsMailPoet {
 	/**
 	 * @var string
 	 */
-	public static $version = '1.0.1';
+	public static $version = '1.0.2-beta.1';
 	public static $include_assets = array();
 	public static $slug = 'bf-mailpoet';
 
