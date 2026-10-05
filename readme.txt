@@ -3,7 +3,7 @@ Contributors: svenl77, themekraft, buddyforms, gfirem
 Tags: buddyforms, mailpoet, buddyforms mailpoet, add subscriber to mailpoet, remove a subscriber from mailpoet list, mailpoet list
 Requires at least: 4.9
 Requires PHP: 5.3
-Tested up to: 6.1.1
+Tested up to: 7.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
